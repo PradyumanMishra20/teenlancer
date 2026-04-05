@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://teenlancer.com/sitemap.xml
+
+# Block unnecessary files
+Disallow: /server.js
+Disallow: /styles.css
